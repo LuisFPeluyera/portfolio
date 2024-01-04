@@ -302,6 +302,10 @@ section {
     border-color: rgb(163, 163, 163);
     text-align: center;
 }
+.education-text-container {
+    text-align: left;
+    margin-top: 10px ;
+}
 
 .section-container {
     gap: 4rem;
